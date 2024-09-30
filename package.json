@@ -13,5 +13,9 @@
     "nbsp"
   ],
   "author": "badunius",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badunius/typographic-spaces-ru"
+  }
 }
