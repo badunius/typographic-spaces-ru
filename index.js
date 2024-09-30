@@ -81,8 +81,6 @@ export const fixSpaces = (options = {}) => {
     return walker;
   };
 
-  console.log({ before, after });
-
   for (const textNode of getTextNodesIterator(root)) {
     textNode.textContent = textNode.textContent.replace(after, "$1\xa0");
     textNode.textContent = textNode.textContent.replace(before, "\xa0$2");
