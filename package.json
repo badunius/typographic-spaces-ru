@@ -16,6 +16,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/badunius/typographic-spaces-ru"
+    "url": "git+https://github.com/badunius/typographic-spaces-ru.git"
   }
 }
