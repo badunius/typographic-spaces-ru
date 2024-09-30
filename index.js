@@ -90,5 +90,3 @@ export const fixSpaces = (options = {}) => {
 };
 
 (() => document.addEventListener("DOMContentLoaded", fixSpaces))();
-
-module.exports = { fixSpaces };
