@@ -1,6 +1,6 @@
 {
   "name": "typographic-spaces-ru",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Заменяет \"мягкие\" пробелы на странице на неразрывные там, где это уместно",
   "main": "index.js",
   "types": "types.d.ts",
